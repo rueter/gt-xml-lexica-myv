@@ -12,5 +12,6 @@ If you use this library in an academic publication, I would be ever so grateful 
 
 Kuzma Abramov, Olga Erina, Jack Rueter. (2018, January 11). Erzya to X nouns (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1146850
 
-[![DOI](https://zenodo.org/badge/1146850.svg)](https://zenodo.org/badge/latestdoi/1146850)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1146850.svg)](https://doi.org/10.5281/zenodo.1146850)
+
 
