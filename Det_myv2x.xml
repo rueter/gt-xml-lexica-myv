@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="myv">
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Qnt">аламнэшка</l>
+     <stg>
+       <st Contlex="QNT_KUDO">аламнэшка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="N">XX</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N">XX</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Qnt">аламошка</l>
+     <stg>
+       <st Contlex="DET_LAMO">аламошка</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Аламонть коряс седе аламонь чарькодема.</defNative>
+     <xg>
+       <x>Макст тень аламошка ярмак, раман карандаш.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Dem">васенце</l>
+     <stg>
+       <st Contlex="DET-DEM_ALCE">васенце</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="Olga01"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="mORD_SMALL"/>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Num">first</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Num">ensimmäinen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Det" type="Dem">васолце</l>
+     <etymology> <etym etymType="hypotheticalErzya" xml:lang="myv"> васол+се </etym>
+     </etymology>
+     <stg>
+       <st Contlex="DET-DEM_ALCE">васолце</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron">kaukainen</t>
+     </tg>
+     <defNative>null</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Ord">ведьгеменце</l>
+     <stg>
+       <st Contlex="IS_NUMORD_KUDO">ведьгеменце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <m>
+     </m>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Qnt">кевейкееце</l>
+     <stg>
+       <st Contlex="NUM_KUDO">кевейкееце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Qnt">кемгавсовоце</l>
+     <stg>
+       <st Contlex="NUM_KUDO">кемгавсовоце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Мельга-мельцень ловома.</defNative>
+     <xg>
+       <x>Кудонтень совась кемгавксовоце ломань. Цёрантень моли кемгавксовоце ие.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Qnt">кемгавтовоце</l>
+     <stg>
+       <st Contlex="NUM_KUDO">кемгавтовоце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Мельга-мельцек ловома, лововиця.</defNative>
+     <xg>
+       <x>Юты кемгавтовоце кизэ, кода эрян кудосо. Путан кемгавтовоце умарина.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Qnt">кемголмовоце</l>
+     <stg>
+       <st Contlex="NUM_KUDO">кемголмовоце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Мельга-мельцек лововиця.</defNative>
+     <xg>
+       <x>Юты кемголмовоце ие, кода араселинь кудосо.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Qnt">кемготовоце</l>
+     <stg>
+       <st Contlex="NUM_KUDO">кемготовоце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Мельга-мельцек лововиця.</defNative>
+     <xg>
+       <x>Кемготовоце умаринась коськсь, эзь туе. Кемготовоце ие эрян велесэ.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Qnt">кемнилееце</l>
+     <stg>
+       <st Contlex="NUM_KUDO">кемнилееце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Мельга-мельцек лововиця.</defNative>
+     <xg>
+       <x>Вальманок икельга юты кемнилееце ломань. Кемнилеецесь лоткась минек икелев.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det">кона</l>
+     <stg>
+       <st Contlex="DET-INTERR">кона</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Pron">which</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">mikä</t>
+     </tg>
+     <defNative>кевкстема вал. Ёвтави, зярдо эряви кияк эли мезеяк муемс, неемс ламонь ютксто.</defNative>
+     <xg>
+       <x>Кона ялгась седе паро? Кона тейтеренть тердема киштеме? Конась кундама?</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det">коната</l>
+     <stg>
+       <st Contlex="DET-INTERR">коната</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Det"/>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Det"/>
+     </tg>
+     <defNative>кевкстема вал. Ёвтави, зярдо эряви кияк эли мезеяк муемс, неемс ламонь ютксто.</defNative>
+     <xg>
+       <x>Тынк кудось коната?</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det">конатанть</l>
+     <stg>
+       <st Contlex="IS-DET-SG-GEN-DEF">конатанть</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Det"/>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Det"/>
+     </tg>
+     <defNative>Кевкстема вал. Ёвтави, зярдо эряви мезеяк саемс ламонь ютксто.</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det">конатась</l>
+     <stg>
+       <st Contlex="IS-DET-SG-NOM-DEF">конатась</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Det"/>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Det"/>
+     </tg>
+     <defNative>Ёвтави, зярдо эряви киньгак невтевтемс ламонь ютксто.</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det">лия</l>
+     <stg>
+       <st Contlex="DET_KUDO">лия</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Qnt">toinen</t>
+     </tg>
+     <tg xml:lang="fra">
+       <t pos="Qnt">autre</t>
+     </tg>
+     <defNative>Невтемасо те валось максы чарькодема: аволь невтезесь эли кона ланга кортазь.</defNative>
+     <xg>
+       <x>Лия ломань. Лия книга. Монень эряви муемс лия ялга. Молемстэ туевинь лия киява. Совинь лия кудос.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e>
+   <map/>
+   <lg>
+     <l pos="Det">омбо</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="QNT_">омбо</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <xg>
+       <x>Омбо мастор. Омбо велень ломань. Туевинь омбо киява. Паксянь омбо песэ.</x>
+       <xt/>
+     </xg>
+     <defNative>(а полавтневи) Лия, омбоце, тона.</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <map/>
+   <lg>
+     <l pos="Det">омбо</l>
+     <etymology>
+     </etymology>
+     <stg>
+       <st Contlex="QNT_">омбо</st>
+     </stg> <compg> </compg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <xg>
+       <x>Омбо мастор. Омбо велень ломань. Туевинь омбо киява. Паксянь омбо песэ.</x>
+       <xt/>
+     </xg>
+     <defNative>(а полавтневи) Лия, омбоце, тона.</defNative>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det">омботькс</l>
+     <stg>
+       <st Contlex="DET_OSH">омботькс</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="HUMAN_A"/>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Det">toinen</t>
+       <t pos="Adv">toisena</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Det">второй</t>
+     </tg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det">омбоце</l>
+     <stg>
+       <st Contlex="ORD_KUDO">омбоце</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="Olga01"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+       <sem class="mORD_SMALL"/>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Det">second</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Det">toinen</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="Det">второй</t>
+     </tg>
+     <defNative>Васенценть мельга молиця.</defNative>
+     <xg>
+       <x>Омбоце кудос сован, кияк мезеяк а ёвты. Омбоце чи эрян велесэ. Омбоце чи сакшнан тевтеме.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det">пире#ёнце</l>
+     <stg>
+       <st Contlex="DEM_ALCE">пире#ёнце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+     <xg>
+       <x>Мольсь пире ёнце латонть алов ды…</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det">пиреёнце</l>
+     <stg>
+       <st Contlex="DEM_ALCE">пире#ёнце</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative/>
+     <xg>
+       <x>Мольсь пире ёнце латонть алов ды…</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Dem">те</l>
+     <stg>
+       <st Contlex="DET-DEM_TE">те</st>
+     </stg>
+   </lg>
+     <sources>
+       <book name="Olga01"/>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Pron">this</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="Pron">tämä</t>
+     </tg>
+     <tg xml:lang="fra">
+       <t pos="Pron">ceci</t>
+     </tg>
+     <defNative>невтема вал, конаньсэ кортыцясь невти эсь маласонзо тев лангс.</defNative>
+     <xg>
+       <x>Те ломанесь вельть паро. Те велесь сюпав. Те вирьсэнть ламо сярдот. Те ломанесь аволь минек велень. Те книгась паро.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Dem">тевате</l>
+     <stg>
+       <st Contlex="DET-DEM_TE">тевате</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Невтема вал. Вана те.</defNative>
+     <xg>
+       <x>Тевате ломанесь парс а ветятанзат.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Dem">теке</l>
+     <stg>
+       <st Contlex="DET-DEM_TE">теке</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron">juuri tämä</t>
+     </tg>
+     <defNative>Ансяк те. Вейкине. Ськамонзо.</defNative>
+     <xg>
+       <x>Панаром кадовсь теке, лия арась. Эрян теке кудосонть. Ялгам кадовсь теке, лиятне тукшность ошов.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Dem">тона</l>
+     <stg>
+       <st Contlex="Dem-tona">тона</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <defNative>Невтема вал. Ёвтави сестэ, зярдо кортамось моли сенде, кие арась тесэ.</defNative>
+     <xg>
+       <x>Тона ломанесь алтась таго самс. Тона ваксс иля ойсе, озак монь ваксс.</x>
+       <xt/>
+     </xg>
+   </mg>
+   <mg relId="1">
+     <semantics>
+     </semantics>
+     <defNative/>
+     <xg>
+       <x>Ёвтави сестэ, зярдо кортамось моли лия таркадо. Тона ёндо сы пиземе. Тона ёндо пуви варма. Тона пакясь вельть васоло.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+<e id="None" meta="">
+   <lg>
+     <l pos="Det" type="Qnt">эрьва</l>
+     <etymology> <etym>[æ-]</etym> <etym>[эрь+ве(йке)</etym>
+     </etymology>
+     <stg>
+       <st Contlex="QNT_KUDO">эрьва</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N">joka</t>
+       <t pos="N">jokainen</t>
+       <t pos="N">tavallinen</t>
+     </tg>
+     <tg xml:lang="rus">
+       <t pos="N">каждый</t>
+       <t pos="N">всякий</t>
+     </tg>
+     <defNative>Ёвтави вал икеле, зярдо эряви невтемс свалонь, весень чарькодема.</defNative>
+     <xg>
+       <x>Эрьва чистэ якан магазинэв. Эрьва ломанесь косояк ды роботы. Эрьва чинь сакшныця. Эрьва косто. Эрьва мезестэ. Эрьва мезень. Эрьва велень. Эрьва ошонь. Эрьва недлясто якан ошов. Эрьва оймсема чистэ яксян пирев. Эрьва сакшномсто кодамояк налкшке кандсь.</x>
+       <xt/>
+     </xg>
+   </mg>
+</e>
+</r> 
